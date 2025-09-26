@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleApp1Assigment-3Question1\ConsoleApp1Assigment-3Question1\obj\Debug\net8.0\ConsoleApp1Assigment-3Question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleApp1Assigment-3Question1\ConsoleApp1Assigment-3Question1\obj\Debug\net8.0\ConsoleApp1Assigment-3Question1.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleApp1Assigment-3Question1\ConsoleApp1Assigment-3Question1\obj\Debug\net8.0\ConsoleApp1Assigment-3Question1.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleApp1Assigment-3Question1\ConsoleApp1Assigment-3Question1\obj\Debug\net8.0\ConsoleApp1Assigment-3Question1.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleApp1Assigment-3Question1\ConsoleApp1Assigment-3Question1\obj\Debug\net8.0\ConsoleApp1Assigment-3Question1.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleApp1Assigment-3Question1\ConsoleApp1Assigment-3Question1\bin\Debug\net8.0\ConsoleApp1Assigment-3Question1.exe
+C:\dms2025\Democms2025practisee\ConsoleApp1Assigment-3Question1\ConsoleApp1Assigment-3Question1\bin\Debug\net8.0\ConsoleApp1Assigment-3Question1.deps.json
+C:\dms2025\Democms2025practisee\ConsoleApp1Assigment-3Question1\ConsoleApp1Assigment-3Question1\bin\Debug\net8.0\ConsoleApp1Assigment-3Question1.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleApp1Assigment-3Question1\ConsoleApp1Assigment-3Question1\bin\Debug\net8.0\ConsoleApp1Assigment-3Question1.dll
+C:\dms2025\Democms2025practisee\ConsoleApp1Assigment-3Question1\ConsoleApp1Assigment-3Question1\bin\Debug\net8.0\ConsoleApp1Assigment-3Question1.pdb
+C:\dms2025\Democms2025practisee\ConsoleApp1Assigment-3Question1\ConsoleApp1Assigment-3Question1\obj\Debug\net8.0\ConsoleApp1Assigment-3Question1.dll
+C:\dms2025\Democms2025practisee\ConsoleApp1Assigment-3Question1\ConsoleApp1Assigment-3Question1\obj\Debug\net8.0\refint\ConsoleApp1Assigment-3Question1.dll
+C:\dms2025\Democms2025practisee\ConsoleApp1Assigment-3Question1\ConsoleApp1Assigment-3Question1\obj\Debug\net8.0\ConsoleApp1Assigment-3Question1.pdb
+C:\dms2025\Democms2025practisee\ConsoleApp1Assigment-3Question1\ConsoleApp1Assigment-3Question1\obj\Debug\net8.0\ConsoleApp1Assigment-3Question1.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleApp1Assigment-3Question1\ConsoleApp1Assigment-3Question1\obj\Debug\net8.0\ref\ConsoleApp1Assigment-3Question1.dll
