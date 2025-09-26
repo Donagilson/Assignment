@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleApp1assign-2\ConsoleApp1assign-2\bin\Debug\net8.0\ConsoleApp1assign-2.exe
+C:\dms2025\Democms2025practisee\ConsoleApp1assign-2\ConsoleApp1assign-2\bin\Debug\net8.0\ConsoleApp1assign-2.deps.json
+C:\dms2025\Democms2025practisee\ConsoleApp1assign-2\ConsoleApp1assign-2\bin\Debug\net8.0\ConsoleApp1assign-2.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleApp1assign-2\ConsoleApp1assign-2\bin\Debug\net8.0\ConsoleApp1assign-2.dll
+C:\dms2025\Democms2025practisee\ConsoleApp1assign-2\ConsoleApp1assign-2\bin\Debug\net8.0\ConsoleApp1assign-2.pdb
+C:\dms2025\Democms2025practisee\ConsoleApp1assign-2\ConsoleApp1assign-2\obj\Debug\net8.0\ConsoleApp1assign-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleApp1assign-2\ConsoleApp1assign-2\obj\Debug\net8.0\ConsoleApp1assign-2.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleApp1assign-2\ConsoleApp1assign-2\obj\Debug\net8.0\ConsoleApp1assign-2.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleApp1assign-2\ConsoleApp1assign-2\obj\Debug\net8.0\ConsoleApp1assign-2.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleApp1assign-2\ConsoleApp1assign-2\obj\Debug\net8.0\ConsoleApp1assign-2.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleApp1assign-2\ConsoleApp1assign-2\obj\Debug\net8.0\ConsoleApp1assign-2.dll
+C:\dms2025\Democms2025practisee\ConsoleApp1assign-2\ConsoleApp1assign-2\obj\Debug\net8.0\refint\ConsoleApp1assign-2.dll
+C:\dms2025\Democms2025practisee\ConsoleApp1assign-2\ConsoleApp1assign-2\obj\Debug\net8.0\ConsoleApp1assign-2.pdb
+C:\dms2025\Democms2025practisee\ConsoleApp1assign-2\ConsoleApp1assign-2\obj\Debug\net8.0\ConsoleApp1assign-2.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleApp1assign-2\ConsoleApp1assign-2\obj\Debug\net8.0\ref\ConsoleApp1assign-2.dll
