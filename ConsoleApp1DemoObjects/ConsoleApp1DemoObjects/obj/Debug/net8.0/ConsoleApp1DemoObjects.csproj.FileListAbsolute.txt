@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleApp1DemoObjects\ConsoleApp1DemoObjects\bin\Debug\net8.0\ConsoleApp1DemoObjects.exe
+C:\dms2025\Democms2025practisee\ConsoleApp1DemoObjects\ConsoleApp1DemoObjects\bin\Debug\net8.0\ConsoleApp1DemoObjects.deps.json
+C:\dms2025\Democms2025practisee\ConsoleApp1DemoObjects\ConsoleApp1DemoObjects\bin\Debug\net8.0\ConsoleApp1DemoObjects.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleApp1DemoObjects\ConsoleApp1DemoObjects\bin\Debug\net8.0\ConsoleApp1DemoObjects.dll
+C:\dms2025\Democms2025practisee\ConsoleApp1DemoObjects\ConsoleApp1DemoObjects\bin\Debug\net8.0\ConsoleApp1DemoObjects.pdb
+C:\dms2025\Democms2025practisee\ConsoleApp1DemoObjects\ConsoleApp1DemoObjects\obj\Debug\net8.0\ConsoleApp1DemoObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleApp1DemoObjects\ConsoleApp1DemoObjects\obj\Debug\net8.0\ConsoleApp1DemoObjects.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleApp1DemoObjects\ConsoleApp1DemoObjects\obj\Debug\net8.0\ConsoleApp1DemoObjects.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleApp1DemoObjects\ConsoleApp1DemoObjects\obj\Debug\net8.0\ConsoleApp1DemoObjects.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleApp1DemoObjects\ConsoleApp1DemoObjects\obj\Debug\net8.0\ConsoleApp1DemoObjects.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleApp1DemoObjects\ConsoleApp1DemoObjects\obj\Debug\net8.0\ConsoleApp1DemoObjects.dll
+C:\dms2025\Democms2025practisee\ConsoleApp1DemoObjects\ConsoleApp1DemoObjects\obj\Debug\net8.0\refint\ConsoleApp1DemoObjects.dll
+C:\dms2025\Democms2025practisee\ConsoleApp1DemoObjects\ConsoleApp1DemoObjects\obj\Debug\net8.0\ConsoleApp1DemoObjects.pdb
+C:\dms2025\Democms2025practisee\ConsoleApp1DemoObjects\ConsoleApp1DemoObjects\obj\Debug\net8.0\ConsoleApp1DemoObjects.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleApp1DemoObjects\ConsoleApp1DemoObjects\obj\Debug\net8.0\ref\ConsoleApp1DemoObjects.dll
