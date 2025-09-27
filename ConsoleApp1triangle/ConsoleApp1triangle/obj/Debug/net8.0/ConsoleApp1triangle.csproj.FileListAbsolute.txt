@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleApp1triangle\ConsoleApp1triangle\bin\Debug\net8.0\ConsoleApp1triangle.exe
+C:\dms2025\Democms2025practisee\ConsoleApp1triangle\ConsoleApp1triangle\bin\Debug\net8.0\ConsoleApp1triangle.deps.json
+C:\dms2025\Democms2025practisee\ConsoleApp1triangle\ConsoleApp1triangle\bin\Debug\net8.0\ConsoleApp1triangle.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleApp1triangle\ConsoleApp1triangle\bin\Debug\net8.0\ConsoleApp1triangle.dll
+C:\dms2025\Democms2025practisee\ConsoleApp1triangle\ConsoleApp1triangle\bin\Debug\net8.0\ConsoleApp1triangle.pdb
+C:\dms2025\Democms2025practisee\ConsoleApp1triangle\ConsoleApp1triangle\obj\Debug\net8.0\ConsoleApp1triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleApp1triangle\ConsoleApp1triangle\obj\Debug\net8.0\ConsoleApp1triangle.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleApp1triangle\ConsoleApp1triangle\obj\Debug\net8.0\ConsoleApp1triangle.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleApp1triangle\ConsoleApp1triangle\obj\Debug\net8.0\ConsoleApp1triangle.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleApp1triangle\ConsoleApp1triangle\obj\Debug\net8.0\ConsoleApp1triangle.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleApp1triangle\ConsoleApp1triangle\obj\Debug\net8.0\ConsoleApp1triangle.dll
+C:\dms2025\Democms2025practisee\ConsoleApp1triangle\ConsoleApp1triangle\obj\Debug\net8.0\refint\ConsoleApp1triangle.dll
+C:\dms2025\Democms2025practisee\ConsoleApp1triangle\ConsoleApp1triangle\obj\Debug\net8.0\ConsoleApp1triangle.pdb
+C:\dms2025\Democms2025practisee\ConsoleApp1triangle\ConsoleApp1triangle\obj\Debug\net8.0\ConsoleApp1triangle.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleApp1triangle\ConsoleApp1triangle\obj\Debug\net8.0\ref\ConsoleApp1triangle.dll
