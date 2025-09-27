@@ -1,0 +1,5 @@
+C:\dms2025\Democms2025practisee\ConsoleAppDelegateAssione\ConsoleAppDelegateAssione\obj\Debug\net8.0\ConsoleAppDelegateAssione.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppDelegateAssione\ConsoleAppDelegateAssione\obj\Debug\net8.0\ConsoleAppDelegateAssione.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppDelegateAssione\ConsoleAppDelegateAssione\obj\Debug\net8.0\ConsoleAppDelegateAssione.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppDelegateAssione\ConsoleAppDelegateAssione\obj\Debug\net8.0\ConsoleAppDelegateAssione.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppDelegateAssione\ConsoleAppDelegateAssione\obj\Debug\net8.0\ConsoleAppDelegateAssione.sourcelink.json
