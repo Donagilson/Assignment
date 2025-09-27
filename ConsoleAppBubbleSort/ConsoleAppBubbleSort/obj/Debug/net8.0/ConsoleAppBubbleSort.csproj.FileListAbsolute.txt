@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppBubbleSort\ConsoleAppBubbleSort\bin\Debug\net8.0\ConsoleAppBubbleSort.exe
+C:\dms2025\Democms2025practisee\ConsoleAppBubbleSort\ConsoleAppBubbleSort\bin\Debug\net8.0\ConsoleAppBubbleSort.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppBubbleSort\ConsoleAppBubbleSort\bin\Debug\net8.0\ConsoleAppBubbleSort.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppBubbleSort\ConsoleAppBubbleSort\bin\Debug\net8.0\ConsoleAppBubbleSort.dll
+C:\dms2025\Democms2025practisee\ConsoleAppBubbleSort\ConsoleAppBubbleSort\bin\Debug\net8.0\ConsoleAppBubbleSort.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppBubbleSort\ConsoleAppBubbleSort\obj\Debug\net8.0\ConsoleAppBubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppBubbleSort\ConsoleAppBubbleSort\obj\Debug\net8.0\ConsoleAppBubbleSort.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppBubbleSort\ConsoleAppBubbleSort\obj\Debug\net8.0\ConsoleAppBubbleSort.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppBubbleSort\ConsoleAppBubbleSort\obj\Debug\net8.0\ConsoleAppBubbleSort.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppBubbleSort\ConsoleAppBubbleSort\obj\Debug\net8.0\ConsoleAppBubbleSort.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppBubbleSort\ConsoleAppBubbleSort\obj\Debug\net8.0\ConsoleAppBubbleSort.dll
+C:\dms2025\Democms2025practisee\ConsoleAppBubbleSort\ConsoleAppBubbleSort\obj\Debug\net8.0\refint\ConsoleAppBubbleSort.dll
+C:\dms2025\Democms2025practisee\ConsoleAppBubbleSort\ConsoleAppBubbleSort\obj\Debug\net8.0\ConsoleAppBubbleSort.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppBubbleSort\ConsoleAppBubbleSort\obj\Debug\net8.0\ConsoleAppBubbleSort.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppBubbleSort\ConsoleAppBubbleSort\obj\Debug\net8.0\ref\ConsoleAppBubbleSort.dll
