@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppCount\ConsoleAppCount\bin\Debug\net8.0\ConsoleAppCount.exe
+C:\dms2025\Democms2025practisee\ConsoleAppCount\ConsoleAppCount\bin\Debug\net8.0\ConsoleAppCount.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppCount\ConsoleAppCount\bin\Debug\net8.0\ConsoleAppCount.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppCount\ConsoleAppCount\bin\Debug\net8.0\ConsoleAppCount.dll
+C:\dms2025\Democms2025practisee\ConsoleAppCount\ConsoleAppCount\bin\Debug\net8.0\ConsoleAppCount.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppCount\ConsoleAppCount\obj\Debug\net8.0\ConsoleAppCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppCount\ConsoleAppCount\obj\Debug\net8.0\ConsoleAppCount.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppCount\ConsoleAppCount\obj\Debug\net8.0\ConsoleAppCount.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppCount\ConsoleAppCount\obj\Debug\net8.0\ConsoleAppCount.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppCount\ConsoleAppCount\obj\Debug\net8.0\ConsoleAppCount.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppCount\ConsoleAppCount\obj\Debug\net8.0\ConsoleAppCount.dll
+C:\dms2025\Democms2025practisee\ConsoleAppCount\ConsoleAppCount\obj\Debug\net8.0\refint\ConsoleAppCount.dll
+C:\dms2025\Democms2025practisee\ConsoleAppCount\ConsoleAppCount\obj\Debug\net8.0\ConsoleAppCount.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppCount\ConsoleAppCount\obj\Debug\net8.0\ConsoleAppCount.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppCount\ConsoleAppCount\obj\Debug\net8.0\ref\ConsoleAppCount.dll
