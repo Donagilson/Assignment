@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppEncapsulation\ConsoleAppEncapsulation\bin\Debug\net8.0\ConsoleAppEncapsulation.exe
+C:\dms2025\Democms2025practisee\ConsoleAppEncapsulation\ConsoleAppEncapsulation\bin\Debug\net8.0\ConsoleAppEncapsulation.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppEncapsulation\ConsoleAppEncapsulation\bin\Debug\net8.0\ConsoleAppEncapsulation.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppEncapsulation\ConsoleAppEncapsulation\bin\Debug\net8.0\ConsoleAppEncapsulation.dll
+C:\dms2025\Democms2025practisee\ConsoleAppEncapsulation\ConsoleAppEncapsulation\bin\Debug\net8.0\ConsoleAppEncapsulation.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\net8.0\ConsoleAppEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\net8.0\ConsoleAppEncapsulation.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\net8.0\ConsoleAppEncapsulation.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\net8.0\ConsoleAppEncapsulation.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\net8.0\ConsoleAppEncapsulation.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\net8.0\ConsoleAppEncapsulation.dll
+C:\dms2025\Democms2025practisee\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\net8.0\refint\ConsoleAppEncapsulation.dll
+C:\dms2025\Democms2025practisee\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\net8.0\ConsoleAppEncapsulation.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\net8.0\ConsoleAppEncapsulation.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\net8.0\ref\ConsoleAppEncapsulation.dll

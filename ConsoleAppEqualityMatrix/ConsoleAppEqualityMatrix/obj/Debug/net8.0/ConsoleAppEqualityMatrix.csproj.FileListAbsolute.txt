@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppEqualityMatrix\ConsoleAppEqualityMatrix\bin\Debug\net8.0\ConsoleAppEqualityMatrix.exe
+C:\dms2025\Democms2025practisee\ConsoleAppEqualityMatrix\ConsoleAppEqualityMatrix\bin\Debug\net8.0\ConsoleAppEqualityMatrix.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppEqualityMatrix\ConsoleAppEqualityMatrix\bin\Debug\net8.0\ConsoleAppEqualityMatrix.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppEqualityMatrix\ConsoleAppEqualityMatrix\bin\Debug\net8.0\ConsoleAppEqualityMatrix.dll
+C:\dms2025\Democms2025practisee\ConsoleAppEqualityMatrix\ConsoleAppEqualityMatrix\bin\Debug\net8.0\ConsoleAppEqualityMatrix.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppEqualityMatrix\ConsoleAppEqualityMatrix\obj\Debug\net8.0\ConsoleAppEqualityMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppEqualityMatrix\ConsoleAppEqualityMatrix\obj\Debug\net8.0\ConsoleAppEqualityMatrix.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppEqualityMatrix\ConsoleAppEqualityMatrix\obj\Debug\net8.0\ConsoleAppEqualityMatrix.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppEqualityMatrix\ConsoleAppEqualityMatrix\obj\Debug\net8.0\ConsoleAppEqualityMatrix.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppEqualityMatrix\ConsoleAppEqualityMatrix\obj\Debug\net8.0\ConsoleAppEqualityMatrix.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppEqualityMatrix\ConsoleAppEqualityMatrix\obj\Debug\net8.0\ConsoleAppEqualityMatrix.dll
+C:\dms2025\Democms2025practisee\ConsoleAppEqualityMatrix\ConsoleAppEqualityMatrix\obj\Debug\net8.0\refint\ConsoleAppEqualityMatrix.dll
+C:\dms2025\Democms2025practisee\ConsoleAppEqualityMatrix\ConsoleAppEqualityMatrix\obj\Debug\net8.0\ConsoleAppEqualityMatrix.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppEqualityMatrix\ConsoleAppEqualityMatrix\obj\Debug\net8.0\ConsoleAppEqualityMatrix.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppEqualityMatrix\ConsoleAppEqualityMatrix\obj\Debug\net8.0\ref\ConsoleAppEqualityMatrix.dll
