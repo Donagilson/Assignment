@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppAutoPartStore\ConsoleAppAutoPartStore\bin\Debug\net8.0\ConsoleAppAutoPartStore.exe
+C:\dms2025\Democms2025practisee\ConsoleAppAutoPartStore\ConsoleAppAutoPartStore\bin\Debug\net8.0\ConsoleAppAutoPartStore.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppAutoPartStore\ConsoleAppAutoPartStore\bin\Debug\net8.0\ConsoleAppAutoPartStore.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppAutoPartStore\ConsoleAppAutoPartStore\bin\Debug\net8.0\ConsoleAppAutoPartStore.dll
+C:\dms2025\Democms2025practisee\ConsoleAppAutoPartStore\ConsoleAppAutoPartStore\bin\Debug\net8.0\ConsoleAppAutoPartStore.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppAutoPartStore\ConsoleAppAutoPartStore\obj\Debug\net8.0\ConsoleAppAutoPartStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppAutoPartStore\ConsoleAppAutoPartStore\obj\Debug\net8.0\ConsoleAppAutoPartStore.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppAutoPartStore\ConsoleAppAutoPartStore\obj\Debug\net8.0\ConsoleAppAutoPartStore.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppAutoPartStore\ConsoleAppAutoPartStore\obj\Debug\net8.0\ConsoleAppAutoPartStore.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppAutoPartStore\ConsoleAppAutoPartStore\obj\Debug\net8.0\ConsoleAppAutoPartStore.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppAutoPartStore\ConsoleAppAutoPartStore\obj\Debug\net8.0\ConsoleAppAutoPartStore.dll
+C:\dms2025\Democms2025practisee\ConsoleAppAutoPartStore\ConsoleAppAutoPartStore\obj\Debug\net8.0\refint\ConsoleAppAutoPartStore.dll
+C:\dms2025\Democms2025practisee\ConsoleAppAutoPartStore\ConsoleAppAutoPartStore\obj\Debug\net8.0\ConsoleAppAutoPartStore.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppAutoPartStore\ConsoleAppAutoPartStore\obj\Debug\net8.0\ConsoleAppAutoPartStore.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppAutoPartStore\ConsoleAppAutoPartStore\obj\Debug\net8.0\ref\ConsoleAppAutoPartStore.dll

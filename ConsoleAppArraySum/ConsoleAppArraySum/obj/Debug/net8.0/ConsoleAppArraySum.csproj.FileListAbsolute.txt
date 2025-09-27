@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppArraySum\ConsoleAppArraySum\bin\Debug\net8.0\ConsoleAppArraySum.exe
+C:\dms2025\Democms2025practisee\ConsoleAppArraySum\ConsoleAppArraySum\bin\Debug\net8.0\ConsoleAppArraySum.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppArraySum\ConsoleAppArraySum\bin\Debug\net8.0\ConsoleAppArraySum.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppArraySum\ConsoleAppArraySum\bin\Debug\net8.0\ConsoleAppArraySum.dll
+C:\dms2025\Democms2025practisee\ConsoleAppArraySum\ConsoleAppArraySum\bin\Debug\net8.0\ConsoleAppArraySum.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppArraySum\ConsoleAppArraySum\obj\Debug\net8.0\ConsoleAppArraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppArraySum\ConsoleAppArraySum\obj\Debug\net8.0\ConsoleAppArraySum.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppArraySum\ConsoleAppArraySum\obj\Debug\net8.0\ConsoleAppArraySum.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppArraySum\ConsoleAppArraySum\obj\Debug\net8.0\ConsoleAppArraySum.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppArraySum\ConsoleAppArraySum\obj\Debug\net8.0\ConsoleAppArraySum.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppArraySum\ConsoleAppArraySum\obj\Debug\net8.0\ConsoleAppArraySum.dll
+C:\dms2025\Democms2025practisee\ConsoleAppArraySum\ConsoleAppArraySum\obj\Debug\net8.0\refint\ConsoleAppArraySum.dll
+C:\dms2025\Democms2025practisee\ConsoleAppArraySum\ConsoleAppArraySum\obj\Debug\net8.0\ConsoleAppArraySum.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppArraySum\ConsoleAppArraySum\obj\Debug\net8.0\ConsoleAppArraySum.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppArraySum\ConsoleAppArraySum\obj\Debug\net8.0\ref\ConsoleAppArraySum.dll
