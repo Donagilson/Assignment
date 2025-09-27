@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppCollection\ConsoleAppCollection\bin\Debug\net8.0\ConsoleAppCollection.exe
+C:\dms2025\Democms2025practisee\ConsoleAppCollection\ConsoleAppCollection\bin\Debug\net8.0\ConsoleAppCollection.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppCollection\ConsoleAppCollection\bin\Debug\net8.0\ConsoleAppCollection.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppCollection\ConsoleAppCollection\bin\Debug\net8.0\ConsoleAppCollection.dll
+C:\dms2025\Democms2025practisee\ConsoleAppCollection\ConsoleAppCollection\bin\Debug\net8.0\ConsoleAppCollection.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\net8.0\ConsoleAppCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\net8.0\ConsoleAppCollection.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\net8.0\ConsoleAppCollection.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\net8.0\ConsoleAppCollection.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\net8.0\ConsoleAppCollection.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\net8.0\ConsoleAppCollection.dll
+C:\dms2025\Democms2025practisee\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\net8.0\refint\ConsoleAppCollection.dll
+C:\dms2025\Democms2025practisee\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\net8.0\ConsoleAppCollection.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\net8.0\ConsoleAppCollection.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\net8.0\ref\ConsoleAppCollection.dll

@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppCarEfficiency\ConsoleAppCarEfficiency\bin\Debug\net8.0\ConsoleAppCarEfficiency.exe
+C:\dms2025\Democms2025practisee\ConsoleAppCarEfficiency\ConsoleAppCarEfficiency\bin\Debug\net8.0\ConsoleAppCarEfficiency.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppCarEfficiency\ConsoleAppCarEfficiency\bin\Debug\net8.0\ConsoleAppCarEfficiency.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppCarEfficiency\ConsoleAppCarEfficiency\bin\Debug\net8.0\ConsoleAppCarEfficiency.dll
+C:\dms2025\Democms2025practisee\ConsoleAppCarEfficiency\ConsoleAppCarEfficiency\bin\Debug\net8.0\ConsoleAppCarEfficiency.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppCarEfficiency\ConsoleAppCarEfficiency\obj\Debug\net8.0\ConsoleAppCarEfficiency.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppCarEfficiency\ConsoleAppCarEfficiency\obj\Debug\net8.0\ConsoleAppCarEfficiency.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppCarEfficiency\ConsoleAppCarEfficiency\obj\Debug\net8.0\ConsoleAppCarEfficiency.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppCarEfficiency\ConsoleAppCarEfficiency\obj\Debug\net8.0\ConsoleAppCarEfficiency.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppCarEfficiency\ConsoleAppCarEfficiency\obj\Debug\net8.0\ConsoleAppCarEfficiency.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppCarEfficiency\ConsoleAppCarEfficiency\obj\Debug\net8.0\ConsoleAppCarEfficiency.dll
+C:\dms2025\Democms2025practisee\ConsoleAppCarEfficiency\ConsoleAppCarEfficiency\obj\Debug\net8.0\refint\ConsoleAppCarEfficiency.dll
+C:\dms2025\Democms2025practisee\ConsoleAppCarEfficiency\ConsoleAppCarEfficiency\obj\Debug\net8.0\ConsoleAppCarEfficiency.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppCarEfficiency\ConsoleAppCarEfficiency\obj\Debug\net8.0\ConsoleAppCarEfficiency.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppCarEfficiency\ConsoleAppCarEfficiency\obj\Debug\net8.0\ref\ConsoleAppCarEfficiency.dll
