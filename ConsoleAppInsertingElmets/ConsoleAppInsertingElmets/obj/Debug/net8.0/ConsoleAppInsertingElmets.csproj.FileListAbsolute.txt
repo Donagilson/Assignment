@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppInsertingElmets\ConsoleAppInsertingElmets\bin\Debug\net8.0\ConsoleAppInsertingElmets.exe
+C:\dms2025\Democms2025practisee\ConsoleAppInsertingElmets\ConsoleAppInsertingElmets\bin\Debug\net8.0\ConsoleAppInsertingElmets.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppInsertingElmets\ConsoleAppInsertingElmets\bin\Debug\net8.0\ConsoleAppInsertingElmets.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppInsertingElmets\ConsoleAppInsertingElmets\bin\Debug\net8.0\ConsoleAppInsertingElmets.dll
+C:\dms2025\Democms2025practisee\ConsoleAppInsertingElmets\ConsoleAppInsertingElmets\bin\Debug\net8.0\ConsoleAppInsertingElmets.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppInsertingElmets\ConsoleAppInsertingElmets\obj\Debug\net8.0\ConsoleAppInsertingElmets.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppInsertingElmets\ConsoleAppInsertingElmets\obj\Debug\net8.0\ConsoleAppInsertingElmets.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppInsertingElmets\ConsoleAppInsertingElmets\obj\Debug\net8.0\ConsoleAppInsertingElmets.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppInsertingElmets\ConsoleAppInsertingElmets\obj\Debug\net8.0\ConsoleAppInsertingElmets.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppInsertingElmets\ConsoleAppInsertingElmets\obj\Debug\net8.0\ConsoleAppInsertingElmets.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppInsertingElmets\ConsoleAppInsertingElmets\obj\Debug\net8.0\ConsoleAppInsertingElmets.dll
+C:\dms2025\Democms2025practisee\ConsoleAppInsertingElmets\ConsoleAppInsertingElmets\obj\Debug\net8.0\refint\ConsoleAppInsertingElmets.dll
+C:\dms2025\Democms2025practisee\ConsoleAppInsertingElmets\ConsoleAppInsertingElmets\obj\Debug\net8.0\ConsoleAppInsertingElmets.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppInsertingElmets\ConsoleAppInsertingElmets\obj\Debug\net8.0\ConsoleAppInsertingElmets.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppInsertingElmets\ConsoleAppInsertingElmets\obj\Debug\net8.0\ref\ConsoleAppInsertingElmets.dll

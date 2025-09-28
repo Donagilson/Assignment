@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppLengthofString\ConsoleAppLengthofString\bin\Debug\net8.0\ConsoleAppLengthofString.exe
+C:\dms2025\Democms2025practisee\ConsoleAppLengthofString\ConsoleAppLengthofString\bin\Debug\net8.0\ConsoleAppLengthofString.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppLengthofString\ConsoleAppLengthofString\bin\Debug\net8.0\ConsoleAppLengthofString.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppLengthofString\ConsoleAppLengthofString\bin\Debug\net8.0\ConsoleAppLengthofString.dll
+C:\dms2025\Democms2025practisee\ConsoleAppLengthofString\ConsoleAppLengthofString\bin\Debug\net8.0\ConsoleAppLengthofString.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppLengthofString\ConsoleAppLengthofString\obj\Debug\net8.0\ConsoleAppLengthofString.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppLengthofString\ConsoleAppLengthofString\obj\Debug\net8.0\ConsoleAppLengthofString.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppLengthofString\ConsoleAppLengthofString\obj\Debug\net8.0\ConsoleAppLengthofString.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppLengthofString\ConsoleAppLengthofString\obj\Debug\net8.0\ConsoleAppLengthofString.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppLengthofString\ConsoleAppLengthofString\obj\Debug\net8.0\ConsoleAppLengthofString.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppLengthofString\ConsoleAppLengthofString\obj\Debug\net8.0\ConsoleAppLengthofString.dll
+C:\dms2025\Democms2025practisee\ConsoleAppLengthofString\ConsoleAppLengthofString\obj\Debug\net8.0\refint\ConsoleAppLengthofString.dll
+C:\dms2025\Democms2025practisee\ConsoleAppLengthofString\ConsoleAppLengthofString\obj\Debug\net8.0\ConsoleAppLengthofString.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppLengthofString\ConsoleAppLengthofString\obj\Debug\net8.0\ConsoleAppLengthofString.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppLengthofString\ConsoleAppLengthofString\obj\Debug\net8.0\ref\ConsoleAppLengthofString.dll
