@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppQuestion4Prime\ConsoleAppQuestion4Prime\obj\Debug\net8.0\ConsoleAppQuestion4Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppQuestion4Prime\ConsoleAppQuestion4Prime\obj\Debug\net8.0\ConsoleAppQuestion4Prime.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppQuestion4Prime\ConsoleAppQuestion4Prime\obj\Debug\net8.0\ConsoleAppQuestion4Prime.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppQuestion4Prime\ConsoleAppQuestion4Prime\obj\Debug\net8.0\ConsoleAppQuestion4Prime.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppQuestion4Prime\ConsoleAppQuestion4Prime\obj\Debug\net8.0\ConsoleAppQuestion4Prime.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppQuestion4Prime\ConsoleAppQuestion4Prime\bin\Debug\net8.0\ConsoleAppQuestion4Prime.exe
+C:\dms2025\Democms2025practisee\ConsoleAppQuestion4Prime\ConsoleAppQuestion4Prime\bin\Debug\net8.0\ConsoleAppQuestion4Prime.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppQuestion4Prime\ConsoleAppQuestion4Prime\bin\Debug\net8.0\ConsoleAppQuestion4Prime.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppQuestion4Prime\ConsoleAppQuestion4Prime\bin\Debug\net8.0\ConsoleAppQuestion4Prime.dll
+C:\dms2025\Democms2025practisee\ConsoleAppQuestion4Prime\ConsoleAppQuestion4Prime\bin\Debug\net8.0\ConsoleAppQuestion4Prime.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppQuestion4Prime\ConsoleAppQuestion4Prime\obj\Debug\net8.0\ConsoleAppQuestion4Prime.dll
+C:\dms2025\Democms2025practisee\ConsoleAppQuestion4Prime\ConsoleAppQuestion4Prime\obj\Debug\net8.0\refint\ConsoleAppQuestion4Prime.dll
+C:\dms2025\Democms2025practisee\ConsoleAppQuestion4Prime\ConsoleAppQuestion4Prime\obj\Debug\net8.0\ConsoleAppQuestion4Prime.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppQuestion4Prime\ConsoleAppQuestion4Prime\obj\Debug\net8.0\ConsoleAppQuestion4Prime.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppQuestion4Prime\ConsoleAppQuestion4Prime\obj\Debug\net8.0\ref\ConsoleAppQuestion4Prime.dll
