@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppPatternABCDE\ConsoleAppPatternABCDE\bin\Debug\net8.0\ConsoleAppPatternABCDE.exe
+C:\dms2025\Democms2025practisee\ConsoleAppPatternABCDE\ConsoleAppPatternABCDE\bin\Debug\net8.0\ConsoleAppPatternABCDE.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppPatternABCDE\ConsoleAppPatternABCDE\bin\Debug\net8.0\ConsoleAppPatternABCDE.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppPatternABCDE\ConsoleAppPatternABCDE\bin\Debug\net8.0\ConsoleAppPatternABCDE.dll
+C:\dms2025\Democms2025practisee\ConsoleAppPatternABCDE\ConsoleAppPatternABCDE\bin\Debug\net8.0\ConsoleAppPatternABCDE.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppPatternABCDE\ConsoleAppPatternABCDE\obj\Debug\net8.0\ConsoleAppPatternABCDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppPatternABCDE\ConsoleAppPatternABCDE\obj\Debug\net8.0\ConsoleAppPatternABCDE.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppPatternABCDE\ConsoleAppPatternABCDE\obj\Debug\net8.0\ConsoleAppPatternABCDE.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppPatternABCDE\ConsoleAppPatternABCDE\obj\Debug\net8.0\ConsoleAppPatternABCDE.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppPatternABCDE\ConsoleAppPatternABCDE\obj\Debug\net8.0\ConsoleAppPatternABCDE.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppPatternABCDE\ConsoleAppPatternABCDE\obj\Debug\net8.0\ConsoleAppPatternABCDE.dll
+C:\dms2025\Democms2025practisee\ConsoleAppPatternABCDE\ConsoleAppPatternABCDE\obj\Debug\net8.0\refint\ConsoleAppPatternABCDE.dll
+C:\dms2025\Democms2025practisee\ConsoleAppPatternABCDE\ConsoleAppPatternABCDE\obj\Debug\net8.0\ConsoleAppPatternABCDE.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppPatternABCDE\ConsoleAppPatternABCDE\obj\Debug\net8.0\ConsoleAppPatternABCDE.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppPatternABCDE\ConsoleAppPatternABCDE\obj\Debug\net8.0\ref\ConsoleAppPatternABCDE.dll

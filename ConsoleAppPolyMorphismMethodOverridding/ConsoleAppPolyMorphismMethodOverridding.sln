@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppPolyMorphismMethodOverridding", "ConsoleAppPolyMorphismMethodOverridding\ConsoleAppPolyMorphismMethodOverridding.csproj", "{A5A886F7-0CD3-40C0-B2A7-F820D9A84DDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A886F7-0CD3-40C0-B2A7-F820D9A84DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A886F7-0CD3-40C0-B2A7-F820D9A84DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A886F7-0CD3-40C0-B2A7-F820D9A84DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A886F7-0CD3-40C0-B2A7-F820D9A84DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {523DB6DD-0EA4-45E1-A001-D1EF1276D68B}
+	EndGlobalSection
+EndGlobal
