@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppSpecialChara\ConsoleAppSpecialChara\bin\Debug\net8.0\ConsoleAppSpecialChara.exe
+C:\dms2025\Democms2025practisee\ConsoleAppSpecialChara\ConsoleAppSpecialChara\bin\Debug\net8.0\ConsoleAppSpecialChara.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppSpecialChara\ConsoleAppSpecialChara\bin\Debug\net8.0\ConsoleAppSpecialChara.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppSpecialChara\ConsoleAppSpecialChara\bin\Debug\net8.0\ConsoleAppSpecialChara.dll
+C:\dms2025\Democms2025practisee\ConsoleAppSpecialChara\ConsoleAppSpecialChara\bin\Debug\net8.0\ConsoleAppSpecialChara.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppSpecialChara\ConsoleAppSpecialChara\obj\Debug\net8.0\ConsoleAppSpecialChara.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppSpecialChara\ConsoleAppSpecialChara\obj\Debug\net8.0\ConsoleAppSpecialChara.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppSpecialChara\ConsoleAppSpecialChara\obj\Debug\net8.0\ConsoleAppSpecialChara.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppSpecialChara\ConsoleAppSpecialChara\obj\Debug\net8.0\ConsoleAppSpecialChara.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppSpecialChara\ConsoleAppSpecialChara\obj\Debug\net8.0\ConsoleAppSpecialChara.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppSpecialChara\ConsoleAppSpecialChara\obj\Debug\net8.0\ConsoleAppSpecialChara.dll
+C:\dms2025\Democms2025practisee\ConsoleAppSpecialChara\ConsoleAppSpecialChara\obj\Debug\net8.0\refint\ConsoleAppSpecialChara.dll
+C:\dms2025\Democms2025practisee\ConsoleAppSpecialChara\ConsoleAppSpecialChara\obj\Debug\net8.0\ConsoleAppSpecialChara.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppSpecialChara\ConsoleAppSpecialChara\obj\Debug\net8.0\ConsoleAppSpecialChara.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppSpecialChara\ConsoleAppSpecialChara\obj\Debug\net8.0\ref\ConsoleAppSpecialChara.dll
