@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppInheritancesec\ConsoleAppInheritancesec\bin\Debug\net8.0\ConsoleAppInheritancesec.exe
+C:\dms2025\Democms2025practisee\ConsoleAppInheritancesec\ConsoleAppInheritancesec\bin\Debug\net8.0\ConsoleAppInheritancesec.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppInheritancesec\ConsoleAppInheritancesec\bin\Debug\net8.0\ConsoleAppInheritancesec.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppInheritancesec\ConsoleAppInheritancesec\bin\Debug\net8.0\ConsoleAppInheritancesec.dll
+C:\dms2025\Democms2025practisee\ConsoleAppInheritancesec\ConsoleAppInheritancesec\bin\Debug\net8.0\ConsoleAppInheritancesec.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppInheritancesec\ConsoleAppInheritancesec\obj\Debug\net8.0\ConsoleAppInheritancesec.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppInheritancesec\ConsoleAppInheritancesec\obj\Debug\net8.0\ConsoleAppInheritancesec.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppInheritancesec\ConsoleAppInheritancesec\obj\Debug\net8.0\ConsoleAppInheritancesec.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppInheritancesec\ConsoleAppInheritancesec\obj\Debug\net8.0\ConsoleAppInheritancesec.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppInheritancesec\ConsoleAppInheritancesec\obj\Debug\net8.0\ConsoleAppInheritancesec.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppInheritancesec\ConsoleAppInheritancesec\obj\Debug\net8.0\ConsoleAppInheritancesec.dll
+C:\dms2025\Democms2025practisee\ConsoleAppInheritancesec\ConsoleAppInheritancesec\obj\Debug\net8.0\refint\ConsoleAppInheritancesec.dll
+C:\dms2025\Democms2025practisee\ConsoleAppInheritancesec\ConsoleAppInheritancesec\obj\Debug\net8.0\ConsoleAppInheritancesec.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppInheritancesec\ConsoleAppInheritancesec\obj\Debug\net8.0\ConsoleAppInheritancesec.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppInheritancesec\ConsoleAppInheritancesec\obj\Debug\net8.0\ref\ConsoleAppInheritancesec.dll

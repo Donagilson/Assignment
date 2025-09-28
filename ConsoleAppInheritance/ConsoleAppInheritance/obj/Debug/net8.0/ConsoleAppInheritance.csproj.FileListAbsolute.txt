@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.exe
+C:\dms2025\Democms2025practisee\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.dll
+C:\dms2025\Democms2025practisee\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.dll
+C:\dms2025\Democms2025practisee\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\refint\ConsoleAppInheritance.dll
+C:\dms2025\Democms2025practisee\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ref\ConsoleAppInheritance.dll
