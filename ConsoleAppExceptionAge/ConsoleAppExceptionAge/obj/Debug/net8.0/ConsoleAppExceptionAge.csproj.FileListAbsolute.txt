@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppExceptionAge\ConsoleAppExceptionAge\bin\Debug\net8.0\ConsoleAppExceptionAge.exe
+C:\dms2025\Democms2025practisee\ConsoleAppExceptionAge\ConsoleAppExceptionAge\bin\Debug\net8.0\ConsoleAppExceptionAge.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppExceptionAge\ConsoleAppExceptionAge\bin\Debug\net8.0\ConsoleAppExceptionAge.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppExceptionAge\ConsoleAppExceptionAge\bin\Debug\net8.0\ConsoleAppExceptionAge.dll
+C:\dms2025\Democms2025practisee\ConsoleAppExceptionAge\ConsoleAppExceptionAge\bin\Debug\net8.0\ConsoleAppExceptionAge.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppExceptionAge\ConsoleAppExceptionAge\obj\Debug\net8.0\ConsoleAppExceptionAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppExceptionAge\ConsoleAppExceptionAge\obj\Debug\net8.0\ConsoleAppExceptionAge.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppExceptionAge\ConsoleAppExceptionAge\obj\Debug\net8.0\ConsoleAppExceptionAge.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppExceptionAge\ConsoleAppExceptionAge\obj\Debug\net8.0\ConsoleAppExceptionAge.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppExceptionAge\ConsoleAppExceptionAge\obj\Debug\net8.0\ConsoleAppExceptionAge.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppExceptionAge\ConsoleAppExceptionAge\obj\Debug\net8.0\ConsoleAppExceptionAge.dll
+C:\dms2025\Democms2025practisee\ConsoleAppExceptionAge\ConsoleAppExceptionAge\obj\Debug\net8.0\refint\ConsoleAppExceptionAge.dll
+C:\dms2025\Democms2025practisee\ConsoleAppExceptionAge\ConsoleAppExceptionAge\obj\Debug\net8.0\ConsoleAppExceptionAge.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppExceptionAge\ConsoleAppExceptionAge\obj\Debug\net8.0\ConsoleAppExceptionAge.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppExceptionAge\ConsoleAppExceptionAge\obj\Debug\net8.0\ref\ConsoleAppExceptionAge.dll

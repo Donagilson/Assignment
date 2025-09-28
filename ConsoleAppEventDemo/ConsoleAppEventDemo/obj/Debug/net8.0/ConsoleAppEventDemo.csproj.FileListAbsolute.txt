@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppEventDemo\ConsoleAppEventDemo\bin\Debug\net8.0\ConsoleAppEventDemo.exe
+C:\dms2025\Democms2025practisee\ConsoleAppEventDemo\ConsoleAppEventDemo\bin\Debug\net8.0\ConsoleAppEventDemo.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppEventDemo\ConsoleAppEventDemo\bin\Debug\net8.0\ConsoleAppEventDemo.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppEventDemo\ConsoleAppEventDemo\bin\Debug\net8.0\ConsoleAppEventDemo.dll
+C:\dms2025\Democms2025practisee\ConsoleAppEventDemo\ConsoleAppEventDemo\bin\Debug\net8.0\ConsoleAppEventDemo.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ConsoleAppEventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ConsoleAppEventDemo.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ConsoleAppEventDemo.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ConsoleAppEventDemo.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ConsoleAppEventDemo.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ConsoleAppEventDemo.dll
+C:\dms2025\Democms2025practisee\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\refint\ConsoleAppEventDemo.dll
+C:\dms2025\Democms2025practisee\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ConsoleAppEventDemo.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ConsoleAppEventDemo.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppEventDemo\ConsoleAppEventDemo\obj\Debug\net8.0\ref\ConsoleAppEventDemo.dll

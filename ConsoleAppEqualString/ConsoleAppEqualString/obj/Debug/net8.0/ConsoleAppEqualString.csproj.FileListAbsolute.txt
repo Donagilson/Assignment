@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppEqualString\ConsoleAppEqualString\bin\Debug\net8.0\ConsoleAppEqualString.exe
+C:\dms2025\Democms2025practisee\ConsoleAppEqualString\ConsoleAppEqualString\bin\Debug\net8.0\ConsoleAppEqualString.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppEqualString\ConsoleAppEqualString\bin\Debug\net8.0\ConsoleAppEqualString.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppEqualString\ConsoleAppEqualString\bin\Debug\net8.0\ConsoleAppEqualString.dll
+C:\dms2025\Democms2025practisee\ConsoleAppEqualString\ConsoleAppEqualString\bin\Debug\net8.0\ConsoleAppEqualString.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppEqualString\ConsoleAppEqualString\obj\Debug\net8.0\ConsoleAppEqualString.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppEqualString\ConsoleAppEqualString\obj\Debug\net8.0\ConsoleAppEqualString.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppEqualString\ConsoleAppEqualString\obj\Debug\net8.0\ConsoleAppEqualString.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppEqualString\ConsoleAppEqualString\obj\Debug\net8.0\ConsoleAppEqualString.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppEqualString\ConsoleAppEqualString\obj\Debug\net8.0\ConsoleAppEqualString.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppEqualString\ConsoleAppEqualString\obj\Debug\net8.0\ConsoleAppEqualString.dll
+C:\dms2025\Democms2025practisee\ConsoleAppEqualString\ConsoleAppEqualString\obj\Debug\net8.0\refint\ConsoleAppEqualString.dll
+C:\dms2025\Democms2025practisee\ConsoleAppEqualString\ConsoleAppEqualString\obj\Debug\net8.0\ConsoleAppEqualString.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppEqualString\ConsoleAppEqualString\obj\Debug\net8.0\ConsoleAppEqualString.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppEqualString\ConsoleAppEqualString\obj\Debug\net8.0\ref\ConsoleAppEqualString.dll
