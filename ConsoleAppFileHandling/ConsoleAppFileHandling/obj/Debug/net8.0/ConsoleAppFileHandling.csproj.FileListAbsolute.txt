@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppFileHandling\ConsoleAppFileHandling\bin\Debug\net8.0\ConsoleAppFileHandling.exe
+C:\dms2025\Democms2025practisee\ConsoleAppFileHandling\ConsoleAppFileHandling\bin\Debug\net8.0\ConsoleAppFileHandling.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppFileHandling\ConsoleAppFileHandling\bin\Debug\net8.0\ConsoleAppFileHandling.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppFileHandling\ConsoleAppFileHandling\bin\Debug\net8.0\ConsoleAppFileHandling.dll
+C:\dms2025\Democms2025practisee\ConsoleAppFileHandling\ConsoleAppFileHandling\bin\Debug\net8.0\ConsoleAppFileHandling.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppFileHandling\ConsoleAppFileHandling\obj\Debug\net8.0\ConsoleAppFileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppFileHandling\ConsoleAppFileHandling\obj\Debug\net8.0\ConsoleAppFileHandling.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppFileHandling\ConsoleAppFileHandling\obj\Debug\net8.0\ConsoleAppFileHandling.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppFileHandling\ConsoleAppFileHandling\obj\Debug\net8.0\ConsoleAppFileHandling.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppFileHandling\ConsoleAppFileHandling\obj\Debug\net8.0\ConsoleAppFileHandling.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppFileHandling\ConsoleAppFileHandling\obj\Debug\net8.0\ConsoleAppFileHandling.dll
+C:\dms2025\Democms2025practisee\ConsoleAppFileHandling\ConsoleAppFileHandling\obj\Debug\net8.0\refint\ConsoleAppFileHandling.dll
+C:\dms2025\Democms2025practisee\ConsoleAppFileHandling\ConsoleAppFileHandling\obj\Debug\net8.0\ConsoleAppFileHandling.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppFileHandling\ConsoleAppFileHandling\obj\Debug\net8.0\ConsoleAppFileHandling.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppFileHandling\ConsoleAppFileHandling\obj\Debug\net8.0\ref\ConsoleAppFileHandling.dll
