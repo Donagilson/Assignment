@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppStringSpace\ConsoleAppStringSpace\bin\Debug\net8.0\ConsoleAppStringSpace.exe
+C:\dms2025\Democms2025practisee\ConsoleAppStringSpace\ConsoleAppStringSpace\bin\Debug\net8.0\ConsoleAppStringSpace.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppStringSpace\ConsoleAppStringSpace\bin\Debug\net8.0\ConsoleAppStringSpace.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppStringSpace\ConsoleAppStringSpace\bin\Debug\net8.0\ConsoleAppStringSpace.dll
+C:\dms2025\Democms2025practisee\ConsoleAppStringSpace\ConsoleAppStringSpace\bin\Debug\net8.0\ConsoleAppStringSpace.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppStringSpace\ConsoleAppStringSpace\obj\Debug\net8.0\ConsoleAppStringSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppStringSpace\ConsoleAppStringSpace\obj\Debug\net8.0\ConsoleAppStringSpace.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppStringSpace\ConsoleAppStringSpace\obj\Debug\net8.0\ConsoleAppStringSpace.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppStringSpace\ConsoleAppStringSpace\obj\Debug\net8.0\ConsoleAppStringSpace.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppStringSpace\ConsoleAppStringSpace\obj\Debug\net8.0\ConsoleAppStringSpace.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppStringSpace\ConsoleAppStringSpace\obj\Debug\net8.0\ConsoleAppStringSpace.dll
+C:\dms2025\Democms2025practisee\ConsoleAppStringSpace\ConsoleAppStringSpace\obj\Debug\net8.0\refint\ConsoleAppStringSpace.dll
+C:\dms2025\Democms2025practisee\ConsoleAppStringSpace\ConsoleAppStringSpace\obj\Debug\net8.0\ConsoleAppStringSpace.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppStringSpace\ConsoleAppStringSpace\obj\Debug\net8.0\ConsoleAppStringSpace.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppStringSpace\ConsoleAppStringSpace\obj\Debug\net8.0\ref\ConsoleAppStringSpace.dll

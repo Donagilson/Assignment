@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppStringReverse\ConsoleAppStringReverse\bin\Debug\net8.0\ConsoleAppStringReverse.exe
+C:\dms2025\Democms2025practisee\ConsoleAppStringReverse\ConsoleAppStringReverse\bin\Debug\net8.0\ConsoleAppStringReverse.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppStringReverse\ConsoleAppStringReverse\bin\Debug\net8.0\ConsoleAppStringReverse.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppStringReverse\ConsoleAppStringReverse\bin\Debug\net8.0\ConsoleAppStringReverse.dll
+C:\dms2025\Democms2025practisee\ConsoleAppStringReverse\ConsoleAppStringReverse\bin\Debug\net8.0\ConsoleAppStringReverse.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppStringReverse\ConsoleAppStringReverse\obj\Debug\net8.0\ConsoleAppStringReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppStringReverse\ConsoleAppStringReverse\obj\Debug\net8.0\ConsoleAppStringReverse.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppStringReverse\ConsoleAppStringReverse\obj\Debug\net8.0\ConsoleAppStringReverse.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppStringReverse\ConsoleAppStringReverse\obj\Debug\net8.0\ConsoleAppStringReverse.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppStringReverse\ConsoleAppStringReverse\obj\Debug\net8.0\ConsoleAppStringReverse.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppStringReverse\ConsoleAppStringReverse\obj\Debug\net8.0\ConsoleAppStringReverse.dll
+C:\dms2025\Democms2025practisee\ConsoleAppStringReverse\ConsoleAppStringReverse\obj\Debug\net8.0\refint\ConsoleAppStringReverse.dll
+C:\dms2025\Democms2025practisee\ConsoleAppStringReverse\ConsoleAppStringReverse\obj\Debug\net8.0\ConsoleAppStringReverse.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppStringReverse\ConsoleAppStringReverse\obj\Debug\net8.0\ConsoleAppStringReverse.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppStringReverse\ConsoleAppStringReverse\obj\Debug\net8.0\ref\ConsoleAppStringReverse.dll
