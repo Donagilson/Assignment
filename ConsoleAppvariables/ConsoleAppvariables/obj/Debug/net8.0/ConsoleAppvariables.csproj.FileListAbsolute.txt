@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppvariables\ConsoleAppvariables\obj\Debug\net8.0\ConsoleAppvariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppvariables\ConsoleAppvariables\obj\Debug\net8.0\ConsoleAppvariables.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppvariables\ConsoleAppvariables\obj\Debug\net8.0\ConsoleAppvariables.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppvariables\ConsoleAppvariables\obj\Debug\net8.0\ConsoleAppvariables.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppvariables\ConsoleAppvariables\obj\Debug\net8.0\ConsoleAppvariables.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppvariables\ConsoleAppvariables\bin\Debug\net8.0\ConsoleAppvariables.exe
+C:\dms2025\Democms2025practisee\ConsoleAppvariables\ConsoleAppvariables\bin\Debug\net8.0\ConsoleAppvariables.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppvariables\ConsoleAppvariables\bin\Debug\net8.0\ConsoleAppvariables.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppvariables\ConsoleAppvariables\bin\Debug\net8.0\ConsoleAppvariables.dll
+C:\dms2025\Democms2025practisee\ConsoleAppvariables\ConsoleAppvariables\bin\Debug\net8.0\ConsoleAppvariables.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppvariables\ConsoleAppvariables\obj\Debug\net8.0\ConsoleAppvariables.dll
+C:\dms2025\Democms2025practisee\ConsoleAppvariables\ConsoleAppvariables\obj\Debug\net8.0\refint\ConsoleAppvariables.dll
+C:\dms2025\Democms2025practisee\ConsoleAppvariables\ConsoleAppvariables\obj\Debug\net8.0\ConsoleAppvariables.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppvariables\ConsoleAppvariables\obj\Debug\net8.0\ConsoleAppvariables.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppvariables\ConsoleAppvariables\obj\Debug\net8.0\ref\ConsoleAppvariables.dll

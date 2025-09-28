@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppVechicle\ConsoleAppVechicle\bin\Debug\net8.0\ConsoleAppVechicle.exe
+C:\dms2025\Democms2025practisee\ConsoleAppVechicle\ConsoleAppVechicle\bin\Debug\net8.0\ConsoleAppVechicle.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppVechicle\ConsoleAppVechicle\bin\Debug\net8.0\ConsoleAppVechicle.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppVechicle\ConsoleAppVechicle\bin\Debug\net8.0\ConsoleAppVechicle.dll
+C:\dms2025\Democms2025practisee\ConsoleAppVechicle\ConsoleAppVechicle\bin\Debug\net8.0\ConsoleAppVechicle.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppVechicle\ConsoleAppVechicle\obj\Debug\net8.0\ConsoleAppVechicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppVechicle\ConsoleAppVechicle\obj\Debug\net8.0\ConsoleAppVechicle.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppVechicle\ConsoleAppVechicle\obj\Debug\net8.0\ConsoleAppVechicle.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppVechicle\ConsoleAppVechicle\obj\Debug\net8.0\ConsoleAppVechicle.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppVechicle\ConsoleAppVechicle\obj\Debug\net8.0\ConsoleAppVechicle.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppVechicle\ConsoleAppVechicle\obj\Debug\net8.0\ConsoleAppVechicle.dll
+C:\dms2025\Democms2025practisee\ConsoleAppVechicle\ConsoleAppVechicle\obj\Debug\net8.0\refint\ConsoleAppVechicle.dll
+C:\dms2025\Democms2025practisee\ConsoleAppVechicle\ConsoleAppVechicle\obj\Debug\net8.0\ConsoleAppVechicle.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppVechicle\ConsoleAppVechicle\obj\Debug\net8.0\ConsoleAppVechicle.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppVechicle\ConsoleAppVechicle\obj\Debug\net8.0\ref\ConsoleAppVechicle.dll
