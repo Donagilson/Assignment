@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppRecursion\ConsoleAppRecursion\bin\Debug\net8.0\ConsoleAppRecursion.exe
+C:\dms2025\Democms2025practisee\ConsoleAppRecursion\ConsoleAppRecursion\bin\Debug\net8.0\ConsoleAppRecursion.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppRecursion\ConsoleAppRecursion\bin\Debug\net8.0\ConsoleAppRecursion.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppRecursion\ConsoleAppRecursion\bin\Debug\net8.0\ConsoleAppRecursion.dll
+C:\dms2025\Democms2025practisee\ConsoleAppRecursion\ConsoleAppRecursion\bin\Debug\net8.0\ConsoleAppRecursion.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppRecursion\ConsoleAppRecursion\obj\Debug\net8.0\ConsoleAppRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppRecursion\ConsoleAppRecursion\obj\Debug\net8.0\ConsoleAppRecursion.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppRecursion\ConsoleAppRecursion\obj\Debug\net8.0\ConsoleAppRecursion.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppRecursion\ConsoleAppRecursion\obj\Debug\net8.0\ConsoleAppRecursion.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppRecursion\ConsoleAppRecursion\obj\Debug\net8.0\ConsoleAppRecursion.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppRecursion\ConsoleAppRecursion\obj\Debug\net8.0\ConsoleAppRecursion.dll
+C:\dms2025\Democms2025practisee\ConsoleAppRecursion\ConsoleAppRecursion\obj\Debug\net8.0\refint\ConsoleAppRecursion.dll
+C:\dms2025\Democms2025practisee\ConsoleAppRecursion\ConsoleAppRecursion\obj\Debug\net8.0\ConsoleAppRecursion.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppRecursion\ConsoleAppRecursion\obj\Debug\net8.0\ConsoleAppRecursion.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppRecursion\ConsoleAppRecursion\obj\Debug\net8.0\ref\ConsoleAppRecursion.dll

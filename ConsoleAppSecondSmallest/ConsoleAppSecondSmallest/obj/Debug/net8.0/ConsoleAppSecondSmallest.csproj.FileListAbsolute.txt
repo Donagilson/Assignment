@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppSecondSmallest\ConsoleAppSecondSmallest\bin\Debug\net8.0\ConsoleAppSecondSmallest.exe
+C:\dms2025\Democms2025practisee\ConsoleAppSecondSmallest\ConsoleAppSecondSmallest\bin\Debug\net8.0\ConsoleAppSecondSmallest.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppSecondSmallest\ConsoleAppSecondSmallest\bin\Debug\net8.0\ConsoleAppSecondSmallest.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppSecondSmallest\ConsoleAppSecondSmallest\bin\Debug\net8.0\ConsoleAppSecondSmallest.dll
+C:\dms2025\Democms2025practisee\ConsoleAppSecondSmallest\ConsoleAppSecondSmallest\bin\Debug\net8.0\ConsoleAppSecondSmallest.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppSecondSmallest\ConsoleAppSecondSmallest\obj\Debug\net8.0\ConsoleAppSecondSmallest.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppSecondSmallest\ConsoleAppSecondSmallest\obj\Debug\net8.0\ConsoleAppSecondSmallest.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppSecondSmallest\ConsoleAppSecondSmallest\obj\Debug\net8.0\ConsoleAppSecondSmallest.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppSecondSmallest\ConsoleAppSecondSmallest\obj\Debug\net8.0\ConsoleAppSecondSmallest.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppSecondSmallest\ConsoleAppSecondSmallest\obj\Debug\net8.0\ConsoleAppSecondSmallest.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppSecondSmallest\ConsoleAppSecondSmallest\obj\Debug\net8.0\ConsoleAppSecondSmallest.dll
+C:\dms2025\Democms2025practisee\ConsoleAppSecondSmallest\ConsoleAppSecondSmallest\obj\Debug\net8.0\refint\ConsoleAppSecondSmallest.dll
+C:\dms2025\Democms2025practisee\ConsoleAppSecondSmallest\ConsoleAppSecondSmallest\obj\Debug\net8.0\ConsoleAppSecondSmallest.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppSecondSmallest\ConsoleAppSecondSmallest\obj\Debug\net8.0\ConsoleAppSecondSmallest.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppSecondSmallest\ConsoleAppSecondSmallest\obj\Debug\net8.0\ref\ConsoleAppSecondSmallest.dll
