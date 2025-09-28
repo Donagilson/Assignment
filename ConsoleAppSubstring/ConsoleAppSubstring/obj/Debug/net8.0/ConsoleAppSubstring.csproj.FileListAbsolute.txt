@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppSubstring\ConsoleAppSubstring\bin\Debug\net8.0\ConsoleAppSubstring.exe
+C:\dms2025\Democms2025practisee\ConsoleAppSubstring\ConsoleAppSubstring\bin\Debug\net8.0\ConsoleAppSubstring.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppSubstring\ConsoleAppSubstring\bin\Debug\net8.0\ConsoleAppSubstring.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppSubstring\ConsoleAppSubstring\bin\Debug\net8.0\ConsoleAppSubstring.dll
+C:\dms2025\Democms2025practisee\ConsoleAppSubstring\ConsoleAppSubstring\bin\Debug\net8.0\ConsoleAppSubstring.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppSubstring\ConsoleAppSubstring\obj\Debug\net8.0\ConsoleAppSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppSubstring\ConsoleAppSubstring\obj\Debug\net8.0\ConsoleAppSubstring.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppSubstring\ConsoleAppSubstring\obj\Debug\net8.0\ConsoleAppSubstring.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppSubstring\ConsoleAppSubstring\obj\Debug\net8.0\ConsoleAppSubstring.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppSubstring\ConsoleAppSubstring\obj\Debug\net8.0\ConsoleAppSubstring.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppSubstring\ConsoleAppSubstring\obj\Debug\net8.0\ConsoleAppSubstring.dll
+C:\dms2025\Democms2025practisee\ConsoleAppSubstring\ConsoleAppSubstring\obj\Debug\net8.0\refint\ConsoleAppSubstring.dll
+C:\dms2025\Democms2025practisee\ConsoleAppSubstring\ConsoleAppSubstring\obj\Debug\net8.0\ConsoleAppSubstring.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppSubstring\ConsoleAppSubstring\obj\Debug\net8.0\ConsoleAppSubstring.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppSubstring\ConsoleAppSubstring\obj\Debug\net8.0\ref\ConsoleAppSubstring.dll

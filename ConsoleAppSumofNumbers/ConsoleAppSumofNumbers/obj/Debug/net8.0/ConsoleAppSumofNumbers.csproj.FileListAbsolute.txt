@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppSumofNumbers\ConsoleAppSumofNumbers\bin\Debug\net8.0\ConsoleAppSumofNumbers.exe
+C:\dms2025\Democms2025practisee\ConsoleAppSumofNumbers\ConsoleAppSumofNumbers\bin\Debug\net8.0\ConsoleAppSumofNumbers.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppSumofNumbers\ConsoleAppSumofNumbers\bin\Debug\net8.0\ConsoleAppSumofNumbers.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppSumofNumbers\ConsoleAppSumofNumbers\bin\Debug\net8.0\ConsoleAppSumofNumbers.dll
+C:\dms2025\Democms2025practisee\ConsoleAppSumofNumbers\ConsoleAppSumofNumbers\bin\Debug\net8.0\ConsoleAppSumofNumbers.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppSumofNumbers\ConsoleAppSumofNumbers\obj\Debug\net8.0\ConsoleAppSumofNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppSumofNumbers\ConsoleAppSumofNumbers\obj\Debug\net8.0\ConsoleAppSumofNumbers.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppSumofNumbers\ConsoleAppSumofNumbers\obj\Debug\net8.0\ConsoleAppSumofNumbers.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppSumofNumbers\ConsoleAppSumofNumbers\obj\Debug\net8.0\ConsoleAppSumofNumbers.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppSumofNumbers\ConsoleAppSumofNumbers\obj\Debug\net8.0\ConsoleAppSumofNumbers.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppSumofNumbers\ConsoleAppSumofNumbers\obj\Debug\net8.0\ConsoleAppSumofNumbers.dll
+C:\dms2025\Democms2025practisee\ConsoleAppSumofNumbers\ConsoleAppSumofNumbers\obj\Debug\net8.0\refint\ConsoleAppSumofNumbers.dll
+C:\dms2025\Democms2025practisee\ConsoleAppSumofNumbers\ConsoleAppSumofNumbers\obj\Debug\net8.0\ConsoleAppSumofNumbers.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppSumofNumbers\ConsoleAppSumofNumbers\obj\Debug\net8.0\ConsoleAppSumofNumbers.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppSumofNumbers\ConsoleAppSumofNumbers\obj\Debug\net8.0\ref\ConsoleAppSumofNumbers.dll
