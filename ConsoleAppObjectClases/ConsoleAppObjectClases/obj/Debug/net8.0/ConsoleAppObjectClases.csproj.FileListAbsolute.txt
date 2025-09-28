@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppObjectClases\ConsoleAppObjectClases\bin\Debug\net8.0\ConsoleAppObjectClases.exe
+C:\dms2025\Democms2025practisee\ConsoleAppObjectClases\ConsoleAppObjectClases\bin\Debug\net8.0\ConsoleAppObjectClases.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppObjectClases\ConsoleAppObjectClases\bin\Debug\net8.0\ConsoleAppObjectClases.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppObjectClases\ConsoleAppObjectClases\bin\Debug\net8.0\ConsoleAppObjectClases.dll
+C:\dms2025\Democms2025practisee\ConsoleAppObjectClases\ConsoleAppObjectClases\bin\Debug\net8.0\ConsoleAppObjectClases.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppObjectClases\ConsoleAppObjectClases\obj\Debug\net8.0\ConsoleAppObjectClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppObjectClases\ConsoleAppObjectClases\obj\Debug\net8.0\ConsoleAppObjectClases.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppObjectClases\ConsoleAppObjectClases\obj\Debug\net8.0\ConsoleAppObjectClases.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppObjectClases\ConsoleAppObjectClases\obj\Debug\net8.0\ConsoleAppObjectClases.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppObjectClases\ConsoleAppObjectClases\obj\Debug\net8.0\ConsoleAppObjectClases.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppObjectClases\ConsoleAppObjectClases\obj\Debug\net8.0\ConsoleAppObjectClases.dll
+C:\dms2025\Democms2025practisee\ConsoleAppObjectClases\ConsoleAppObjectClases\obj\Debug\net8.0\refint\ConsoleAppObjectClases.dll
+C:\dms2025\Democms2025practisee\ConsoleAppObjectClases\ConsoleAppObjectClases\obj\Debug\net8.0\ConsoleAppObjectClases.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppObjectClases\ConsoleAppObjectClases\obj\Debug\net8.0\ConsoleAppObjectClases.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppObjectClases\ConsoleAppObjectClases\obj\Debug\net8.0\ref\ConsoleAppObjectClases.dll

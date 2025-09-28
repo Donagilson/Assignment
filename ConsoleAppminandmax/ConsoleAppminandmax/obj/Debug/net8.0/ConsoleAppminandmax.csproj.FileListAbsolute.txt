@@ -1,0 +1,15 @@
+C:\dms2025\Democms2025practisee\ConsoleAppminandmax\ConsoleAppminandmax\bin\Debug\net8.0\ConsoleAppminandmax.exe
+C:\dms2025\Democms2025practisee\ConsoleAppminandmax\ConsoleAppminandmax\bin\Debug\net8.0\ConsoleAppminandmax.deps.json
+C:\dms2025\Democms2025practisee\ConsoleAppminandmax\ConsoleAppminandmax\bin\Debug\net8.0\ConsoleAppminandmax.runtimeconfig.json
+C:\dms2025\Democms2025practisee\ConsoleAppminandmax\ConsoleAppminandmax\bin\Debug\net8.0\ConsoleAppminandmax.dll
+C:\dms2025\Democms2025practisee\ConsoleAppminandmax\ConsoleAppminandmax\bin\Debug\net8.0\ConsoleAppminandmax.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppminandmax\ConsoleAppminandmax\obj\Debug\net8.0\ConsoleAppminandmax.GeneratedMSBuildEditorConfig.editorconfig
+C:\dms2025\Democms2025practisee\ConsoleAppminandmax\ConsoleAppminandmax\obj\Debug\net8.0\ConsoleAppminandmax.AssemblyInfoInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppminandmax\ConsoleAppminandmax\obj\Debug\net8.0\ConsoleAppminandmax.AssemblyInfo.cs
+C:\dms2025\Democms2025practisee\ConsoleAppminandmax\ConsoleAppminandmax\obj\Debug\net8.0\ConsoleAppminandmax.csproj.CoreCompileInputs.cache
+C:\dms2025\Democms2025practisee\ConsoleAppminandmax\ConsoleAppminandmax\obj\Debug\net8.0\ConsoleAppminandmax.sourcelink.json
+C:\dms2025\Democms2025practisee\ConsoleAppminandmax\ConsoleAppminandmax\obj\Debug\net8.0\ConsoleAppminandmax.dll
+C:\dms2025\Democms2025practisee\ConsoleAppminandmax\ConsoleAppminandmax\obj\Debug\net8.0\refint\ConsoleAppminandmax.dll
+C:\dms2025\Democms2025practisee\ConsoleAppminandmax\ConsoleAppminandmax\obj\Debug\net8.0\ConsoleAppminandmax.pdb
+C:\dms2025\Democms2025practisee\ConsoleAppminandmax\ConsoleAppminandmax\obj\Debug\net8.0\ConsoleAppminandmax.genruntimeconfig.cache
+C:\dms2025\Democms2025practisee\ConsoleAppminandmax\ConsoleAppminandmax\obj\Debug\net8.0\ref\ConsoleAppminandmax.dll
